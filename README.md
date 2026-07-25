@@ -9,6 +9,12 @@
   <a href="mailto:saiswamwanhline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
+### 💻 Visit My Live Portfolio: [jomwan.vercel.app](https://jomwan.vercel.app/)
+
+<a href="https://jomwan.vercel.app/" target="_blank">
+  <img src="portfolio-preview.jpg" width="800px" alt="Portfolio Preview Banner" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
+</a>
+
 </div>
 
 ---
