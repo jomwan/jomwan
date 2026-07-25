@@ -2,7 +2,7 @@
 
 # Hey there! I'm Jom 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Data+Engineer+%E2%9A%99%EF%B8%8F;Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Data+Engineer+%E2%9A%99%EF%B8%8F;Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;ML%2FAI+Developer+%F0%9F%A4%96;Big+Data+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/sai-swam-wan-hline-7a72b4406/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
