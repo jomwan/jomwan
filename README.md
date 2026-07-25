@@ -9,10 +9,10 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/sai-swam-wan-hline-7a72b4406/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sai-swam-wan-hline-7a72b4406/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:saiswamwan.h66@rsu.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/jomwan02" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/jom_wan02" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/jomwan02" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/jom_wan02" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://line.me/ti/p/~saiswamwanhline" target="_blank"><img src="https://img.shields.io/badge/Line-00C300?style=flat-square&logo=line&logoColor=white" alt="Line ID" /></a>
 </p>
 
@@ -42,32 +42,32 @@ I am a passionate data professional and engineer with a deep interest in buildin
     <td width="50%" valign="top">
       <h3>💻 Languages & Core</h3>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/mysql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Big Data & Pipelines</h3>
       <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 Machine Learning & AI</h3>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Frontend & Web</h3>
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" />
+      <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361dafb" />
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -78,18 +78,18 @@ I am a passionate data professional and engineer with a deep interest in buildin
 
 <p align="center">
   <a href="https://github.com/jomwan/Fraud-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=Fraud-Detection&theme=onedark" height="120px" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jomwan&repo=Fraud-Detection&theme=onedark" height="120px" />
   </a>
   <a href="https://github.com/jomwan/databrick-fraud-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=databrick-fraud-detection&theme=onedark" height="120px" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jomwan&repo=databrick-fraud-detection&theme=onedark" height="120px" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/jomwan/TikTok_ABM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=TikTok_ABM&theme=onedark" height="120px" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jomwan&repo=TikTok_ABM&theme=onedark" height="120px" />
   </a>
   <a href="https://github.com/jomwan/golf-bookr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=golf-bookr&theme=onedark" height="120px" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jomwan&repo=golf-bookr&theme=onedark" height="120px" />
   </a>
 </p>
 
@@ -129,26 +129,22 @@ I am a passionate data professional and engineer with a deep interest in buildin
 
 ## 🏆 GitHub Analytics Dashboard
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jomwan&theme=onedark&column=7&margin-w=15&margin-h=15" alt="Trophy Card" />
-</div>
-
 <br />
 
 <div align="center">
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jomwan&show_icons=true&theme=onedark&count_private=true" alt="Sai's GitHub Stats" height="195px" />
+        <img src="https://github-stats-extended.vercel.app/api?username=jomwan&show_icons=true&theme=onedark&count_private=true" alt="Sai's GitHub Stats" height="195px" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jomwan&theme=onedark" alt="GitHub Streak Stats" height="195px" />
+        <img src="https://streak-stats.demolab.com/?user=jomwan&theme=onedark" alt="GitHub Streak Stats" height="195px" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomwan&layout=compact&theme=onedark" alt="Top Languages" height="180px" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jomwan&layout=compact&theme=onedark" alt="Top Languages" height="180px" />
       </td>
     </tr>
   </table>
