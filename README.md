@@ -5,8 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Data+Engineer+%E2%9A%99%EF%B8%8F;Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 
 <p>
-  <a href="https://linkedin.com/in/sai-swam-wan-hline" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:saiswamwanhline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/sai-swam-wan-hline-7a72b4406/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saiswamwan.h66@rsu.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/jomwan02" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/jom_wan02" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://line.me/ti/p/~saiswamwanhline" target="_blank"><img src="https://img.shields.io/badge/Line-00C300?style=flat-square&logo=line&logoColor=white" alt="Line ID" /></a>
 </p>
 
 ### 💻 Visit My Live Portfolio: [jomwan.vercel.app](https://jomwan.vercel.app/)
