@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hey there! I'm Jom 👋
+# Hey there! I'm Sai Swam Wan Hline (Jom) 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Data+Engineer+%E2%9A%99%EF%B8%8F;Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;ML%2FAI+Developer+%F0%9F%A4%96;Big+Data+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jomwan.jomwan&color=00ADB5" alt="Visitor Count" />
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/sai-swam-wan-hline-7a72b4406/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -70,47 +74,60 @@ I am a passionate data professional and engineer with a deep interest in buildin
 
 ---
 
-## 🚀 Highlighted Work
+## 🚀 Highlighted Repositories
+
+<p align="center">
+  <a href="https://github.com/jomwan/Fraud-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=Fraud-Detection&theme=onedark" height="120px" />
+  </a>
+  <a href="https://github.com/jomwan/databrick-fraud-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=databrick-fraud-detection&theme=onedark" height="120px" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jomwan/TikTok_ABM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=TikTok_ABM&theme=onedark" height="120px" />
+  </a>
+  <a href="https://github.com/jomwan/golf-bookr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomwan&repo=golf-bookr&theme=onedark" height="120px" />
+  </a>
+</p>
+
+<details>
+  <summary><b>📐 Technical Details of Highlighted Work (Click to Expand)</b></summary>
 
 ### 🛡️ [Enterprise Real-Time Fraud Detection](https://github.com/jomwan/Fraud-Detection)
-> A state-of-the-art financial crime monitoring system running on multi-model AI ensembles.
-<details>
-  <summary><b>📐 Architecture details</b></summary>
-  
-  - **Medallion Pipeline**: Partitioned JSONL (Bronze) ➔ Enriched schema CSVs with ML scores (Silver) ➔ Business aggregate KPIs (Gold).
-  - **AI Ensemble**: XGBoost (40% weight) + Isolation Forest (25% weight) + Deep PyTorch LSTM (35% weight) + Graph Centrality (Neo4j).
-</details>
+* **Medallion Pipeline**: Partitioned JSONL (Bronze) ➔ Enriched schema CSVs with ML scores (Silver) ➔ Business aggregate KPIs (Gold).
+* **AI Ensemble**: XGBoost (40% weight) + Isolation Forest (25% weight) + Deep PyTorch LSTM (35% weight) + Graph Centrality (Neo4j).
 
 ### 📊 [Databricks Fraud Ingestion Pipeline](https://github.com/jomwan/databrick-fraud-detection)
-> Cloud-native Delta Lakehouse implementation featuring real-time stream ingestion.
-<details>
-  <summary><b>📐 Architecture details</b></summary>
-  
-  - **Pipeline**: Declarative Delta Live Tables (DLT) with strict data validation gates.
-  - **Serving**: MLflow models loaded dynamically from Unity Catalog inside a Structured Streaming loop. Streamlit front-end visualization.
-</details>
+* **Pipeline**: Declarative Delta Live Tables (DLT) with strict data validation gates.
+* **Serving**: MLflow models loaded dynamically from Unity Catalog inside a Structured Streaming loop. Streamlit front-end visualization.
 
 ### 📈 [TikTok Trend Diffusion ABM](https://github.com/jomwan/TikTok_ABM)
-> Agent-Based Model simulating Songkran festival consumer purchase conversion from viral TikTok trend data.
-<details>
-  <summary><b>📐 Simulation details</b></summary>
-  
-  - **Core**: Watts-Strogatz small-world social network (Mesa / NetworkX).
-  - **Funnel**: Unaware ➔ Aware ➔ Interested ➔ Purchased decision tree with impulse decay. Solara & Plotly dashboard.
-</details>
+* **Core**: Watts-Strogatz small-world social network (Mesa / NetworkX).
+* **Funnel**: Unaware ➔ Aware ➔ Interested ➔ Purchased decision tree with impulse decay. Solara & Plotly dashboard.
 
 ### ⛳ [Golf Bookr Bangkok](https://github.com/jomwan/golf-bookr)
-> A premium full-stack online booking system and AI chatbot concierge for golf clubs.
-<details>
-  <summary><b>📐 Stack details</b></summary>
-  
-  - **Core**: React 18 frontend + Node.js/Express backend + WebSockets live schedules.
-  - **AI Concierge**: Google Gemini 3.5 Flash customized agent managing course advice and slots.
+* **Core**: React 18 frontend + Node.js/Express backend + WebSockets live schedules.
+* **AI Concierge**: Google Gemini 3.5 Flash customized agent managing course advice and slots.
 </details>
 
 ---
 
-## 🏆 GitHub Badges & Stats
+## 👾 Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jomwan/jomwan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jomwan/jomwan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/jomwan/jomwan/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Analytics Dashboard
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jomwan&theme=onedark&column=7&margin-w=15&margin-h=15" alt="Trophy Card" />
@@ -119,6 +136,28 @@ I am a passionate data professional and engineer with a deep interest in buildin
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomwan&show_icons=true&theme=onedark&count_private=true" alt="Sai's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomwan&layout=compact&theme=onedark" alt="Top Languages" height="180px" />
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jomwan&show_icons=true&theme=onedark&count_private=true" alt="Sai's GitHub Stats" height="195px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jomwan&theme=onedark" alt="GitHub Streak Stats" height="195px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomwan&layout=compact&theme=onedark" alt="Top Languages" height="180px" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quotes" />
+</p>
